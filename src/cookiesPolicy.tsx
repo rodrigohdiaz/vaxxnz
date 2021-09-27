@@ -1,6 +1,6 @@
 const CookiesPolicy = () => {
   return (
-    <div style={{ margin: "3rem" }}>
+    <div>
       <h2>Cookies Policy</h2>
       <p
         style={{
